@@ -1,6 +1,6 @@
 import requests
 
-CIUDAD = "Bogotá"
+CIUDAD = "Medellin"
 
 # Servicio 1: Open-Meteo Geocoding (nombre de ciudad -> coordenadas)
 geo = requests.get(
