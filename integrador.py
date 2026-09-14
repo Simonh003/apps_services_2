@@ -1,3 +1,5 @@
+#SIMON HERRERA ACOSTA
+#Juan David Arias Ospina
 import json
 import csv
 import os
