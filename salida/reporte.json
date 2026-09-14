@@ -1,0 +1,2298 @@
+{
+  "registros_procesados": 400,
+  "registros_normalizados": 391,
+  "errores_normalizacion": 9,
+  "registros_validos_localmente": 380,
+  "registros_rechazados_localmente": 11,
+  "registros_enviados": 380,
+  "registros_aceptados_por_api": 190,
+  "registros_rechazados_por_api": 190,
+  "errores_comunicacion": 0,
+  "consulta_get": {
+    "estado": "consulta_ok",
+    "status_code": 200,
+    "equipo": "EQUIPO-21-APPSWEB"
+  },
+  "trazabilidad": [
+    {
+      "id_trazabilidad": "A-0001",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0002",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0003",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0004",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0005",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0006",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0007",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0008",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0009",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0010",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0011",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0012",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0013",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0014",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0016",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0017",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0018",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0019",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0020",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0021",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0022",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0023",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0024",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0025",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0026",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0027",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0028",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0029",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0030",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0032",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0033",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0034",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0035",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0036",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0037",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0038",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0039",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0041",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0042",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0043",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0044",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0045",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0046",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0047",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0048",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0049",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0050",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0051",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0052",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0053",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0054",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0055",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0056",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0057",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0058",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0059",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0060",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0061",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0062",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0063",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0064",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0065",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0066",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0067",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0068",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0069",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0070",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0071",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0072",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0073",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0074",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0075",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0076",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0077",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0078",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0079",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0080",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0081",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0083",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0084",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0085",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0086",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0087",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0089",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0090",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0091",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0092",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0093",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0094",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0095",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0096",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0097",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0098",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0099",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0100",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0101",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0102",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0103",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0104",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0105",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0106",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0107",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0108",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0109",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0110",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0111",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0112",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0113",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0114",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0115",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0116",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0117",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0118",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0119",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0120",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0121",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0122",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0123",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0124",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0125",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0126",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0127",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0128",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0129",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0130",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0131",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0132",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0133",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0134",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0135",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0137",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0138",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0139",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0140",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0141",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0142",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0143",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0144",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0145",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0146",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0147",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0148",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0149",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0151",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0152",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0153",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0154",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0155",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0156",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0157",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0158",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0159",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0160",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0161",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0162",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0163",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0164",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0165",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0166",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0167",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0168",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0169",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0170",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0171",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0172",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0176",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0177",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0178",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0179",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0180",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0181",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0182",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0183",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0184",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0185",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0186",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0187",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0188",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0189",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0190",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0191",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0192",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0193",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0194",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0195",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0196",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0197",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0198",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0199",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "A-0200",
+      "estado": "rechazado_por_api",
+      "status_code": 409,
+      "origen": "proveedor_a"
+    },
+    {
+      "id_trazabilidad": "B-0001",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0002",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0003",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0005",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0007",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0008",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0009",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0010",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0011",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0012",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0013",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0014",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0015",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0016",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0017",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0018",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0019",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0020",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0021",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0022",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0023",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0024",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0025",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0026",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0027",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0028",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0029",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0030",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0031",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0032",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0033",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0034",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0035",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0036",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0037",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0038",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0039",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0040",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0041",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0042",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0043",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0044",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0045",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0046",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0047",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0048",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0049",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0050",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0051",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0052",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0053",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0054",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0055",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0056",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0057",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0058",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0059",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0060",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0061",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0062",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0063",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0064",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0065",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0066",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0067",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0068",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0069",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0070",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0071",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0072",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0073",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0074",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0075",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0077",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0078",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0079",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0080",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0081",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0082",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0083",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0084",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0085",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0086",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0087",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0088",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0089",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0090",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0091",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0092",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0093",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0094",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0095",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0096",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0097",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0098",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0099",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0100",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0101",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0102",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0103",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0104",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0105",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0106",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0107",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0108",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0109",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0110",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0111",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0112",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0113",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0116",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0117",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0118",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0119",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0120",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0121",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0122",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0123",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0124",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0125",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0126",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0127",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0129",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0130",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0131",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0132",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0133",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0134",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0136",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0137",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0138",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0139",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0140",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0141",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0142",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0143",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0144",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0145",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0147",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0148",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0149",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0150",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0151",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0152",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0153",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0154",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0155",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0156",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0157",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0158",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0159",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0160",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0161",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0162",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0163",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0164",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0165",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0166",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0167",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0168",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0169",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0170",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0172",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0173",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0174",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0175",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0176",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0177",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0178",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0179",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0180",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0181",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0182",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0183",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0184",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0185",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0186",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0187",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0188",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0189",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0191",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0192",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0193",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0194",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0195",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0196",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0197",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0198",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0199",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    },
+    {
+      "id_trazabilidad": "B-0200",
+      "estado": "aceptado",
+      "status_code": 201,
+      "origen": "proveedor_b"
+    }
+  ]
+}
