@@ -1,0 +1,11 @@
+# Local virtual environments
+venv/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
